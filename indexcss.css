@@ -1,0 +1,100 @@
+ul{
+    font-family: "Arial Black";
+    list-style-type: none;
+        }
+li{
+float: left;
+}
+li,a{
+padding: 10px;
+    color: black;
+}
+li,a:hover{
+    color:red;
+}
+.sectionone{
+    background-color:beige;
+    color: green;
+    padding: 30px;
+    border: 2px solid bisque;
+    border-radius: 10px;
+    margin: 2px;
+    text-align: left;
+}
+.sectiontwo{
+    background-color: #b6cff3;
+    background-image: url("Images/camera.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ffffff;
+    padding: 150px;
+    border: 2px solid silver;
+    border-radius: 10px;
+    margin: 2px;
+    text-align:center;
+}
+.sectionthree{
+    background-color: #e9f3f2;
+    background-image: url("Images/emergency_response_og.jpg");
+    color: #111111;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 100px;
+    border: 2px solid cornsilk;
+    border-radius: 10px;
+    margin: 2px;
+    text-align: left;
+}
+.sectionfour{
+    background-color: #ebf5f5;
+    color:black;
+    padding: 50px;
+    border: 2px solid silver;
+    border-radius: 10px;
+    margin: 2px;
+    text-align: left;
+}
+.sectionfive{
+    background-color: white;
+    background-image: url("Images/camera.jpg");
+    color: black;
+    padding: 30px;
+    border: 2px solid #e2d8d8;
+    border-radius: 10px;
+    }
+}
+h1{
+    text-align:left;
+    font-family:"Calibri Light";
+}
+h2{
+    text-align:right;
+    font-family:"Calibri Light";
+
+}
+h3{
+    text-align: left;
+    font-family: "Calibri";
+}
+h4{
+  text-align:center;
+    font-family: Calibri;
+    color: white;
+}
+form{
+    color: #605cea;
+    padding: 50px;
+    margin: 20px;
+    font-size: 20px;
+    font-family:"Arial Black";
+}
+img{
+    background-image: url("Images/security dog.jpg");
+    height: 300px;width: 500px;
+}
+p{
+    color: black;
+    font-size: 15px;
+    font-family: Calibri;
+}
